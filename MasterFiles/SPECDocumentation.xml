@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+    <metric id="2651100" type="quality-rule" originalName="Custom category for additional Angular" section="associatedValueName">
+	    <english> Angular violation patterns</english>
+	</metric>
+	
+	<metric id="2651100" type="quality-rule" originalName="Custom category for additional Angular" section="description">
+	    <english>Angular Java violation.</english>
+	</metric>
+	
+	<metric id="2651100" type="quality-rule" originalName="Custom category for additional Angular" section="name">
+	    <english>Angular Java violation</english>
+	</metric>
+	
+	<metric id="2651100" type="quality-rule" originalName="Custom category for additional Angular" section="output">
+	    <english>Angular Java violation.</english>
+    </metric>
+	
+	<metric id="2651100" type="quality-rule" originalName="Custom category for additional Angular" section="rationale">
+	    <english>Angular Java violation.</english>
+	</metric>
+	
+	<metric id="2651100" type="quality-rule" originalName="Custom category for additional Angular" section="remediation">
+	    <english>Angular Java violation</english>
+	</metric>
+	
+	<metric id="2651100" type="quality-rule" originalName="Custom category for additional Angular" section="remediationSample">
+	    <english>Angular fixed.</english>
+	</metric>
+	
+	<metric id="2651100" type="quality-rule" originalName="Custom category for additional Angular" section="sample">
+	    <english>Angular violation.</english>
+	</metric>
+	
+	 <metric id="2651100" type="quality-rule" originalName="Custom category for additional Angular" section="total">
+		<english>The total procedure counts Angular Access.</english>
+	 </metric>
+	 
+</root>

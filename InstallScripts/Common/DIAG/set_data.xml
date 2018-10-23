@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DATA model="OBJSET" version="1.0.0.0" scope="OBJSETINIT" export="OK">
+<SET_Definitions>
+    <SetId>2651100</SetId>
+    <SetName>SET_Angular_2651100</SetName>
+    <SetType>DIAG_SCOPE</SetType>
+    <SetProcedure>SET_Angular_2651100</SetProcedure>
+</SET_Definitions>
+
+</DATA>

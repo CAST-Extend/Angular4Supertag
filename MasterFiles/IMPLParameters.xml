@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+<metric id="2651100" type="quality-rule" originalName="Angular four violation" parameterName="Maximum Line Count" parameterType="integer" parameterIndex="1" filter="0" filterLabel="ALL TECHNOLOGIES" parameterDescription="Maximum Angular Super Count per artifact">
+    	<defaultValue>100</defaultValue>
+    	<defaultValuesList>N/A</defaultValuesList>
+  	</metric>
+	
+</root>

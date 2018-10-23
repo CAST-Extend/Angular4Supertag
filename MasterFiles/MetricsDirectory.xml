@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+
+    <metric id="61024" type="technical-criterion" originalName="Programming Practices - Structuredness"    active='N/A' detached='N/A' ignored="N/A"/>
+    
+    <metric id="2651100" type="quality-rule" originalName="Custom category for additional Angular" active="true" detached="false" ignored="false"/>
+	
+	
+</root>
